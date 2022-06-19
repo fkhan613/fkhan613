@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Khan</h1>
-<h3 align="center">I am a Grade 12 Student at Colonel By SS and love working with code.</h3>
+<h3 align="center">I am a Full Stack Engineer at Digitera Interactive and a Grade 12 student at Colonel By SS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
