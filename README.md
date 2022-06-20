@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **farhan.k2005@gmail.com**
 
-- ⚡ Fun fact **Farhan means "Happy" and Khan means "King" in Arabic so I guess that makes me the Happy King!**
+- ⚡ Fun fact **Farhan means "Happy" in Arabic and Khan means "King" in Bangla so I guess that makes me the Happy King!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
