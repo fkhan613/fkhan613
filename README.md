@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Full Stack Login/Register System](https://github.com/fkhan613/Full-Stack-Login-Register-System)
 
-- 🌱 I’m currently learning **MySQL, PHP, JavaScript, HTML & CSS**
+- 🌱 I’m currently learning **JavaScript, Node.js, Vue.js, PHP $ MySQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fkhan613](https://github.com/fkhan613)
 
