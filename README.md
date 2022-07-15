@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/101340703/177920633-184353c6-5e28-406d-84dc-da87ac74bdfd.png)
 <h1 align="center">Hi 👋, I'm Farhan Khan</h1>
-<h3 align="center">I am a Full Stack Engineer at Digitera Interactive and a Grade 12 student at Colonel By SS</h3>
+<h3 align="center">I am a Full Stack Engineer at Digitera Interactive and a Grade 12 Student at Colonel By SS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
