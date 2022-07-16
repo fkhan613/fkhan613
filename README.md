@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/101340703/177920633-184353c6-5e28-406d-84dc-da87ac74bdfd.png)
+![linkedin banner](https://user-images.githubusercontent.com/101340703/179372799-2d1b75fe-ce9a-4e58-9295-91f03a427039.png)
 <h1 align="center">Hi 👋, I'm Farhan Khan</h1>
 <h3 align="center">I am a Full Stack Engineer at Digitera Interactive and a Grade 12 Student at Colonel By SS</h3>
 
