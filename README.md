@@ -16,6 +16,27 @@
 
 
 ## My Skill Set  
+
+- 😀 HTML5       
+
+- 👨‍💻 CSS3
+
+- 💻 JavaScript
+
+- 🤖 TypeScript
+
+- 🖥Vue.JS
+
+- 📱Node.JS
+
+- 🤴PHP
+
+- 🔥MySQL
+
+- 🌊Java
+
+- 🐍Python
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
