@@ -17,7 +17,7 @@
 
 ## My Skill Set  
 
-- 😀 HTML5       
+- 😀 HTML5     
 
 - 👨‍💻 CSS3
 
@@ -71,7 +71,6 @@
 <br/>
 </table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613" ></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" /></p>
 
