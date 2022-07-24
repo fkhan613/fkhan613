@@ -33,7 +33,7 @@
 
 - 🔥MySQL
 
-- 🌊Java
+- ☕Java
 
 - 🐍Python
 
