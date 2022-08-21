@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I’m currently learning VueJS
+- 🔭 I’m currently working on [University Student Managment System Software](https://github.com/fkhan613/University-Managment-System-Software)
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Vue.js, PHP & MySQL**
 
