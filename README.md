@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **farhan.k2005@gmail.com** || LinkedIn **https://www.linkedin.com/in/fkhan613/** 
 
-- ⚡ Fun fact **Farhan means "Happy" in Arabic and Khan means "King" in Bangla so I guess that makes me the Happy King!**
-
 
 ## My Skill Set  
 
