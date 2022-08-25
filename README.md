@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Node.js, Vue.js, PHP & MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fkhan613](https://github.com/fkhan613)
-
 - 📫 How to reach me **farhan.k2005@gmail.com** || LinkedIn **https://www.linkedin.com/in/fkhan613/** 
 
 
