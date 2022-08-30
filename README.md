@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently monitoring and updating [University Student Managment Software - Omega Academy](https://github.com/fkhan613/University-Managment-System-Software)
 
-- 🌱 I’m currently learning **JavaScript, Node.js, Vue.js, PHP & MySQL**
+- 🌱 I’m currently learning **Object-Oriented PHP & Vue.JS**
 
 - 📫 How to reach me **farhan.k2005@gmail.com** || LinkedIn **https://www.linkedin.com/in/fkhan613/** 
 
