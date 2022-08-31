@@ -21,9 +21,7 @@
 
 - 🤖 TypeScript
 
-- 🖥Vue.JS
-
-- 📱Node.JS
+- 🖥 Vue.JS
 
 - 🤴PHP
 
