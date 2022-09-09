@@ -31,6 +31,8 @@
 
 - 🐍Python
 
+- ✨Git/Version Control
+
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
