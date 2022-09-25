@@ -29,11 +29,21 @@
 
 - ☕Java
 
-- ⭕OOP Development
+- ⭕Object Oriented Programming (OOP)
 
 - 🐍Python
 
 - ✨Git/Version Control
+
+## IDE's
+
+- Visual Studio Code
+
+- Eclipse
+
+- Replit
+
+
 
 <table><tr><td valign="top" width="33%">
 
