@@ -29,9 +29,11 @@
 
 - ☕Java
 
-- ⭕Object Oriented Programming (OOP)
-
 - 🐍Python
+
+- C
+
+- ⭕Object Oriented Programming (OOP)
 
 - ✨Git/Version Control
 
