@@ -31,7 +31,7 @@
 
 - 🐍Python
 
-- C
+- ⏫C
 
 - ⭕Object Oriented Programming (OOP)
 
