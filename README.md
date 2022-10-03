@@ -15,7 +15,9 @@
 
 ## My Skill Set  
 
-- 😀 HTML5     
+- 😀 HTML5
+
+- ⚔️ Blade
 
 - 👾 CSS3
 
@@ -23,19 +25,19 @@
 
 - 🤖 TypeScript
 
-- 🤴PHP
+- 🤴 PHP
 
-- 🔥MySQL
+- 🔥 MySQL
 
-- ☕Java
+- ☕ Java
 
-- 🐍Python
+- 🐍 Python
 
-- ⏫C
+- ⏫ C
 
-- ⭕Object Oriented Programming (OOP)
+- ⭕ Object Oriented Programming (OOP)
 
-- ✨Git/Version Control
+- ✨ Git/Version Control
 
 ## IDE's
 
