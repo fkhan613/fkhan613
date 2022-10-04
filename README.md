@@ -27,6 +27,10 @@
 
 - 🤴 PHP
 
+- 🐞Laravel
+
+- 🌷Laravel Orchid
+
 - 🔥 MySQL
 
 - ☕ Java
