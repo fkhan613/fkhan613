@@ -17,8 +17,6 @@
 
 - 😀 HTML5
 
-- ⚔️ Blade
-
 - 👾 CSS3
 
 - 💻 JavaScript
@@ -27,7 +25,7 @@
 
 - 🤴 PHP
 
-- 🐞Laravel
+- 🐞Laravel & Blade
 
 - 🌷Laravel Orchid
 
