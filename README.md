@@ -1,6 +1,6 @@
 ![linkedin banner](https://user-images.githubusercontent.com/101340703/179372799-2d1b75fe-ce9a-4e58-9295-91f03a427039.png)
 <h1 align="center">Hi 👋, I'm Farhan</h1>
-<h3 align="center">I am a Team Lead Full Stack Engineer at Digitera Interactive and a Grade 12 Student at Colonel By SS</h3>
+<h3 align="center">I am a Software Engineering Team Lead at Digitera Interactive and a Grade 12 Student at Colonel By SS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
