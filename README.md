@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I’m currently re-creating and migrating a new admin dashboard for Digitera's PromPlanner application
+- 🔭 I’m currently re-creating and migrating a new super admin dashboard for Digitera's PromPlanner application
 
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
