@@ -1,4 +1,4 @@
-![linkedin banner](https://user-images.githubusercontent.com/101340703/179372799-2d1b75fe-ce9a-4e58-9295-91f03a427039.png)
+![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://user-images.githubusercontent.com/101340703/200124986-06f8d28f-7c85-4e47-9c87-16816063e369.png)
 <h1 align="center">Hi 👋, I'm Farhan</h1>
 <h3 align="center">I am a Software Engineering Team Lead at Digitera Interactive and a Grade 12 Student at Colonel By SS</h3>
 
