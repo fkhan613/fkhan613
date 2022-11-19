@@ -53,7 +53,7 @@
 <p> 
  <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" />
  &nbsp;&nbsp;&nbsp;
- <img height=163px width=400px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" />
+ <img height=160px width=400px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" />
 </p>
 
 
