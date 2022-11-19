@@ -50,46 +50,11 @@
 - Replit
 
 
-
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-
-<div align="center">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
+<p> 
+ <img width=475px src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" />
+ &nbsp;&nbsp;&nbsp;
+ <img height=190px width=475px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" />
+</p>
 
 
-### Backend  
-<div align="center">  
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="40"/> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
-</div>
-
-</td>
-<br/>
-</table>
-
-
-<span align="left"> <img height=200px width=400px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
- 
- <span><img height=200px width=400px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" /></span>
-
-
-
-<p align="left"><img width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613" /></p>
+<p align="left"><img width=475px src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613" /></p>
