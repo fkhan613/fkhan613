@@ -86,7 +86,10 @@
 </table>
 
 
-<span align="left"><img width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width=400px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" /></span>
+<span align="left"> <img height=200px width=400px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+ 
+ <span><img height=200px width=400px src="https://github-readme-stats.vercel.app/api?username=fkhan613&show_icons=true&locale=en" alt="fkhan613" /></span>
 
 
-<p align="left"><img  width=405px align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" /></p>
+
+<p align="left"><img width=400px src="https://github-readme-stats.vercel.app/api/top-langs?username=fkhan613&show_icons=true&locale=en&layout=compact" alt="fkhan613" /></p>
