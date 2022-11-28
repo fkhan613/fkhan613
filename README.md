@@ -13,7 +13,7 @@
 - 📫 How to reach me **farhan.k2005@gmail.com** || LinkedIn **https://www.linkedin.com/in/farhan-khan-** 
 
 
-## My Skill Set  
+## My Technical Skill Set  
 
 - 😀 HTML5
 
