@@ -8,7 +8,7 @@
 
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
-- 🌱 I’m currently learning **Laravel and Laravel Orchid**
+- 🌱 I’m currently learning **Laravel and Laravel Orchid** & how to be a better leader!
 
 - 📫 How to reach me: **farhan.k2005@gmail.com** || LinkedIn: **https://www.linkedin.com/in/farhan-khan-** 
 
