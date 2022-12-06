@@ -41,13 +41,19 @@
 
 - ✨ Git/Version Control
 
-## IDE's
-
 - Visual Studio Code
 
 - Eclipse
 
 - Replit
+
+## Soft Skills
+
+ - Team work
+ - Fast learner 
+ - Time Management
+ - Conflict Resolution
+ - Leadership
 
 
 <p> 
