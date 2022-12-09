@@ -54,6 +54,7 @@
  - Time Management
  - Conflict Resolution
  - Leadership
+ - Problem Solving
 
 
 <p> 
