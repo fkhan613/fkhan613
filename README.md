@@ -53,6 +53,7 @@
  - Fast learner 
  - Time Management
  - Conflict Resolution
+ - Critical Thinking
  - Leadership
  - Problem Solving
 
