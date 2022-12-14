@@ -27,7 +27,7 @@
 
 - 🐞Laravel & Blade
 
-- 🌷Laravel Orchid
+- 🌷Laravel Orchid Framework
 
 - 🔥 MySQL
 
