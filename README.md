@@ -54,6 +54,7 @@
  - Time Management
  - Conflict Resolution
  - Critical Thinking
+ - Communication 
  - Leadership
  - Problem Solving
 
