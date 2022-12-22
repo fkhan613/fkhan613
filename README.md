@@ -57,7 +57,7 @@
  - Communication 
  - Leadership
  - Problem Solving
-
+ - Management
 
 <p> 
  <img width=400px src="https://github-readme-streak-stats.herokuapp.com/?user=fkhan613&" alt="fkhan613" />
