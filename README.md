@@ -50,12 +50,12 @@
 ## Soft Skills
 
  - Team work
- - Fast learner 
+ - Leadership
  - Time Management
  - Conflict Resolution
  - Critical Thinking
  - Communication 
- - Leadership
+ - Fast Learner
  - Problem Solving
  - Management
 
