@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I’m currently leading a group of talented engineers in order to develop Digitera's <a href='https://promplanner.app'>Prom Planner startup!</a> 
+- 🔭 I’m currently leading a group of talented engineers in order to develop Digitera's <a href='https://promplanner.app' target='blank' >Prom Planner startup!</a> 
 
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
