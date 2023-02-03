@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently leading a group of talented engineers in order to develop Digitera's <a href='https://promplanner.app' target="_blank" >Prom Planner startup!</a> 
 
+- 📚 I'm and Incoming Computer Science Honours & Business Management Student at Carleton University & Sprott School of Business CU
+
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
 - 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** & how to be a better leader!
