@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently leading a group of talented engineers in order to develop Digitera's <a href='https://promplanner.app' target="_blank" >Prom Planner startup!</a> 
 
-- 📚 I'm and Incoming Computer Science Honours & Business Management Student at Carleton University & Sprott School of Business CU
+- 📚 I'm an Incoming Computer Science Honours & Business Management Student at Carleton University
 
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
