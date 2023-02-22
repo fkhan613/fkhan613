@@ -1,6 +1,6 @@
 ![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://user-images.githubusercontent.com/101340703/200124986-06f8d28f-7c85-4e47-9c87-16816063e369.png)
 <h1 align="center">Hey There 👋, I'm Farhan</h1>
-<h3 align="center">I am the Lead Software Engineer at Digitera Interactive</h3>
+<h3 align="center">I am the Lead Software Engineer at Digitera Interactive <br><br> <a href="https://farhankhan.tech" target="_blank">Personal Portfolio</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
