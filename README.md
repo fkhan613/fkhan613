@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I am currently leading and managing Digitera's Full Stack Engineering team in order to prepare <a href="https://promplanner.app" target="_blank" >Prom Planner</a> for its beta release!
+- 🔭 I am currently leading and managing Digitera's Full Stack Engineering team & Mobile Development team in order to prepare <a href="https://promplanner.app" target="_blank" >Prom Planner</a> for its beta release!
 
 - 📚 I'm a Computer Science Honours & Business Management Student at Carleton University
 
