@@ -30,6 +30,7 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"> Soft Skills
 
  - Team work
+ - Cross-Functional Team Management 
  - Leadership
  - Time Management
  - Conflict Resolution
