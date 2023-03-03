@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 align="center">I am the Lead Software Engineer at Digitera Interactive <br><br> <a href="https://farhankhan.tech" target="_blank">Personal Portfolio</a> </h3>
+<h3 align="center">I am the Lead Software Engineer, Technical Lead at Digitera Interactive <br><br> <a href="https://farhankhan.tech" target="_blank">Personal Portfolio</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
