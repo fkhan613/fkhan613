@@ -9,7 +9,7 @@
 
 - 🔭 I am currently leading and managing Digitera's Full Stack Engineering team & Mobile Development team in order to prepare <a href="https://promplanner.app" target="_blank" >Prom Planner</a> for its beta release!
 
-- 📚 I'm a Honours Computer Science & Business Management Student at Carleton University
+- 📚 I'm currently pursuing a Bachelors of Computer Science Honours & Business Management at Carleton University
 
 - ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
 
