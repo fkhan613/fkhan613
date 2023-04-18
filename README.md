@@ -11,7 +11,7 @@
 
 - 📚 I'm currently pursuing a Bachelors of Computer Science Honours & Business Management at Carleton University
 
-- ⚡ I'm interested in Full Stack Engineering and Web Application Developement 
+- ⚡ I'm interested in Full Stack Engineering, Web Application Developement and SaaS Development
 
 - 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** 
 
