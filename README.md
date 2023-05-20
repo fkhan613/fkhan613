@@ -1,4 +1,5 @@
-![Blue Gold Elegant Minimalist Digital Marketer LinkedIn Banner](https://user-images.githubusercontent.com/101340703/200124986-06f8d28f-7c85-4e47-9c87-16816063e369.png)
+![New Linkedin Banner](https://github.com/fkhan613/fkhan613/assets/101340703/7bb56982-28a8-4aa1-a84d-34d24be49c0b)
+
 <h1 align="center">Hey There 👋, I'm Farhan</h1>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
