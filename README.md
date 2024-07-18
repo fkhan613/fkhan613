@@ -14,7 +14,7 @@
 
 - ⚡ I'm interested in Full Stack Engineering, Web Application Developement and SaaS Development
 
-- 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** 
+- 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** by building the all in one social media app for gym enthusiasts called GymNation
 
 - 📫 How to reach me: **farhan.work435@gmail.com** || LinkedIn: **https://www.linkedin.com/in/farhan-khan-** 
 
