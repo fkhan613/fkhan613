@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** by building the all in one social media app for gym enthusiasts called GymNation
 
-- 📫 How to reach me: **farhan.work435@gmail.com** || LinkedIn: **https://www.linkedin.com/in/farhan-khan-** 
+- 📫 How to reach me: **farhan.work435@gmail.com** || LinkedIn: **[Farhan Khan]** (https://www.linkedin.com/in/farhan-khan-) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
