@@ -4,15 +4,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 align="center">I am the Lead Software Engineer at Digitera Interactive and a Co-Founder of Prom Planner<br><br> <a href="https://farhankhan.tech" target="_blank">Personal Portfolio</a> </h3>
+<h3 align="center">I am the Founder and Lead Software Engineer at Lunaris Software<br><br> <a href="https://farhankhan.tech" target="_blank">Personal Portfolio</a> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I am currently leading and managing Digitera's Full Stack Engineering team & Mobile Development team in order to prepare <a href="https://promplanner.app" target="_blank" >Prom Planner</a> for its beta release!
+- 🔭 I am currently running  <a href="https://lunarissoftware.com/" target="_blank" >Lunaris Software </a> and managing my employees
 
-- 📚 I'm currently pursuing a Bachelors of Computer Science Honours & Business Management at Carleton University
+- 📚 I'm currently pursuing a Bachelor's of Computer Science Honours & Business Management at Carleton University
 
-- ⚡ I'm interested in Full Stack Engineering, Web Application Developement and SaaS Development
+- ⚡ I'm interested in Full Stack Engineering, Web Application Development and SaaS Development
 
 - 🌱 I’m currently learning the **MERN STACK (MongoDB, ExpressJS, ReactJS, NodeJS)** by building the all in one social media app for gym enthusiasts called GymNation
 
