@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fkhan613&label=Profile%20views&color=0e75b6&style=flat" alt="fkhan613" /> </p>
 
-- 🔭 I am currently running  <a href="https://lunarissoftware.com/" target="_blank" >Lunaris Software </a> and managing my employees
+- 🔭 I am currently running  <a href="https://lunarissoftware.com/" target="_blank" >Lunaris Software </a>
 
-- 📚 I'm currently pursuing a Bachelor's of Computer Science Honours & Business Management at Carleton University
+- 📚 I'm currently pursuing a Bachelor's of Computer Science at Carleton University
 
 - ⚡ I'm interested in Full Stack Engineering, Web Application Development and SaaS Development
 
